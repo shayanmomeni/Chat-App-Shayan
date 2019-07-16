@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>512188071016-3mpn2itcqvn3e5cmcf9gurdiv9pvhkkv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.512188071016-3mpn2itcqvn3e5cmcf9gurdiv9pvhkkv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBUi2F_g9l0zgYxGGWyuwVcWOyBIKOCayA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>512188071016</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ShayanMomeni.Flash-Chat</string>
+	<key>PROJECT_ID</key>
+	<string>shayan-flash-chat</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shayan-flash-chat.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:512188071016:ios:7bf88137a95149b1</string>
+	<key>DATABASE_URL</key>
+	<string>https://shayan-flash-chat.firebaseio.com</string>
+</dict>
+</plist>
